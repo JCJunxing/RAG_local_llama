@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please contact [jcchen0331@gmail.com](mailto:jcchen0331@gmail.com).
